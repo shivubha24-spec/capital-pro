@@ -135,4 +135,24 @@ cursor:pointer;
 .login-container a{
 color:#d8b4fe;
 text-decoration:none;
+}.dashboard{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
+gap:20px;
+padding:25px;
+}
+
+.dash-card{
+background:#7e22ce;
+color:white;
+text-decoration:none;
+padding:30px;
+border-radius:20px;
+text-align:center;
+font-size:40px;
+transition:.3s;
+}
+
+.dash-card:hover{
+transform:scale(1.05);
 }
