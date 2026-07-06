@@ -1,0 +1,35 @@
+Redesign my app's Home Page completely with a modern premium UI.
+
+Create a clean, attractive and unique home screen with a luxury dark theme, glassmorphism cards, smooth animations, rounded corners, beautiful gradients and premium icons.
+
+Home Page Layout:
+- Welcome header with user's name and profile picture.
+- Large search bar with AI suggestions.
+- Beautiful image/banner slider at the top.
+- Quick Action cards:
+  • AI Edit
+  • Background Remove
+  • AI Generate
+  • Enhance HD
+  • Download
+  • My Projects
+- Recent Projects section with thumbnails.
+- Trending Templates section.
+- Popular Tools section.
+- Categories with colorful icons.
+- Daily AI Tip card.
+- Bottom Navigation with Home, Create, Projects, Profile.
+
+UI Requirements:
+- Premium animations.
+- Glass effect cards.
+- Soft shadows.
+- Smooth transitions.
+- Gradient buttons.
+- Material 3 Design.
+- Fully responsive.
+- Fast loading.
+- Professional spacing and typography.
+- Beautiful empty states and loading skeletons.
+
+Fix all layout issues, improve user experience, and make the Home Page look like a premium AI editing app similar to Canva, PicsArt, or Adobe Express. Make it unique, elegant, and production-ready.
